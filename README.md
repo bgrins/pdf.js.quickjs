@@ -1,3 +1,18 @@
+
+# Notes from fork:
+
+Attempting to make a self contained wrapper which doesn't rely on pdfjs runtime within demo.
+
+Build:
+
+```
+node build.js --compile --output demo
+
+```
+
+
+
+
 # pdf.js.quickjs
 
 Provide a sandbox to PDF.js.
